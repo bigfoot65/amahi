@@ -3,14 +3,14 @@ owner: bigfoot65 # Your GitHub organization or username, where this repository l
 repo: amahi # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Amahi
+  - name: Web Site
     url: https://www.amahi.org
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Bug Tracker
+    url: https://bugs.amahi.org
+  - name: Forums
+    url: https://forums.amahi.org
+  - name: Blog
+    url: https://blog.amahi.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
