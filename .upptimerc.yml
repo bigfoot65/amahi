@@ -11,6 +11,12 @@ sites:
     url: https://forums.amahi.org
   - name: Blog
     url: https://blog.amahi.org
+  - name: F25 Repo
+    url: http://f25.amahi.org
+  - name: F27 Repo
+    url: http://f27.amahi.org
+  - name: F35 Repo
+    url: http://f35.amahi.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
