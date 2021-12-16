@@ -5,6 +5,8 @@ repo: amahi # The name of this repository
 sites:
   - name: Web Site
     url: https://www.amahi.org
+  - name: Wiki
+    url: https://wiki.amahi.org
   - name: Bug Tracker
     url: https://bugs.amahi.org
   - name: Forums
