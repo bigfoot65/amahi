@@ -7,12 +7,14 @@ sites:
     url: https://www.amahi.org
   - name: Wiki
     url: https://wiki.amahi.org
-  - name: Bug Tracker
-    url: https://bugs.amahi.org
   - name: Forums
     url: https://forums.amahi.org
+  - name: Bug Tracker
+    url: https://bugs.amahi.org
   - name: Blog
     url: https://blog.amahi.org
+  - name: Anywhere Relay
+    url: https://pfe.amahi.org/debug
   - name: F25 Repo
     url: http://f25.amahi.org
   - name: F27 Repo
