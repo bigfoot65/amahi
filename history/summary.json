@@ -24,19 +24,19 @@
     "url": "https://wiki.amahi.org",
     "icon": "https://favicons.githubusercontent.com/wiki.amahi.org",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "91.47%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.81%",
-    "time": 938,
-    "timeDay": 1031,
-    "timeWeek": 952,
-    "timeMonth": 924,
-    "timeYear": 938,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "90.27%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.78%",
+    "time": 936,
+    "timeDay": 941,
+    "timeWeek": 939,
+    "timeMonth": 921,
+    "timeYear": 936,
     "dailyMinutesDown": {
-      "2022-01-28": 123
+      "2022-01-28": 140
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://blog.amahi.org",
     "icon": "https://favicons.githubusercontent.com/blog.amahi.org",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "91.47%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.81%",
-    "time": 1011,
-    "timeDay": 748,
-    "timeWeek": 900,
-    "timeMonth": 1050,
-    "timeYear": 1011,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "90.28%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.78%",
+    "time": 1006,
+    "timeDay": 731,
+    "timeWeek": 877,
+    "timeMonth": 1040,
+    "timeYear": 1006,
     "dailyMinutesDown": {
-      "2022-01-28": 123
+      "2022-01-28": 140
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://favicons.githubusercontent.com/pfe.amahi.org",
     "slug": "anywhere-relay",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "91.47%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.78%",
+    "uptimeDay": "90.28%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.78%",
     "time": 207,
     "timeDay": 106,
     "timeWeek": 159,
     "timeMonth": 204,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2022-01-28": 123
+      "2022-01-28": 140
     }
   },
   {
