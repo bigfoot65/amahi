@@ -4,9 +4,9 @@
     "url": "https://www.amahi.org",
     "icon": "https://favicons.githubusercontent.com/www.amahi.org",
     "slug": "web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 674,
     "timeMonth": 717,
     "timeYear": 752,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-28": 0
+    }
   },
   {
     "name": "Wiki",
     "url": "https://wiki.amahi.org",
     "icon": "https://favicons.githubusercontent.com/wiki.amahi.org",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 952,
     "timeMonth": 924,
     "timeYear": 938,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-28": 0
+    }
   },
   {
     "name": "Forums",
     "url": "https://forums.amahi.org",
     "icon": "https://favicons.githubusercontent.com/forums.amahi.org",
     "slug": "forums",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 193,
     "timeMonth": 269,
     "timeYear": 271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-28": 0
+    }
   },
   {
     "name": "Bug Tracker",
     "url": "https://bugs.amahi.org",
     "icon": "https://favicons.githubusercontent.com/bugs.amahi.org",
     "slug": "bug-tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +75,18 @@
     "timeWeek": 160,
     "timeMonth": 209,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-28": 0
+    }
   },
   {
     "name": "Blog",
     "url": "https://blog.amahi.org",
     "icon": "https://favicons.githubusercontent.com/blog.amahi.org",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,16 +95,18 @@
     "timeWeek": 900,
     "timeMonth": 1050,
     "timeYear": 1011,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-28": 0
+    }
   },
   {
     "name": "Anywhere Relay",
     "url": "https://pfe.amahi.org/debug",
     "icon": "https://favicons.githubusercontent.com/pfe.amahi.org",
     "slug": "anywhere-relay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +115,9 @@
     "timeWeek": 159,
     "timeMonth": 204,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-28": 0
+    }
   },
   {
     "name": "Sync Storage",
