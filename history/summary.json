@@ -115,11 +115,11 @@
     "icon": "https://favicons.githubusercontent.com/pfe.amahi.org",
     "slug": "anywhere-relay",
     "status": "up",
-    "uptime": "79.26%",
+    "uptime": "79.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.26%",
+    "uptimeYear": "79.28%",
     "time": 205,
     "timeDay": 128,
     "timeWeek": 181,
@@ -156,9 +156,9 @@
     "url": "http://cpg.amahi.me/Public/isthisworking.txt",
     "icon": "https://favicons.githubusercontent.com/cpg.amahi.me",
     "slug": "sync-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.16%",
@@ -168,6 +168,7 @@
     "timeMonth": 94,
     "timeYear": 86,
     "dailyMinutesDown": {
+      "2022-04-01": 0,
       "2022-02-18": 625,
       "2022-02-17": 662
     }
