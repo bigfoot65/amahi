@@ -4,9 +4,9 @@
     "url": "https://www.amahi.org",
     "icon": "https://favicons.githubusercontent.com/www.amahi.org",
     "slug": "web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.78%",
@@ -16,6 +16,7 @@
     "timeMonth": 750,
     "timeYear": 723,
     "dailyMinutesDown": {
+      "2022-04-18": 0,
       "2022-03-22": 25,
       "2022-02-17": 73,
       "2022-02-16": 174,
@@ -27,9 +28,9 @@
     "url": "https://wiki.amahi.org",
     "icon": "https://favicons.githubusercontent.com/wiki.amahi.org",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -39,6 +40,7 @@
     "timeMonth": 944,
     "timeYear": 933,
     "dailyMinutesDown": {
+      "2022-04-18": 0,
       "2022-01-28": 140
     }
   },
@@ -47,9 +49,9 @@
     "url": "https://forums.amahi.org",
     "icon": "https://favicons.githubusercontent.com/forums.amahi.org",
     "slug": "forums",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.76%",
@@ -59,6 +61,7 @@
     "timeMonth": 296,
     "timeYear": 275,
     "dailyMinutesDown": {
+      "2022-04-18": 0,
       "2022-03-29": 29,
       "2022-03-22": 25,
       "2022-02-17": 71,
@@ -71,9 +74,9 @@
     "url": "https://bugs.amahi.org",
     "icon": "https://favicons.githubusercontent.com/bugs.amahi.org",
     "slug": "bug-tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.80%",
@@ -83,6 +86,7 @@
     "timeMonth": 189,
     "timeYear": 195,
     "dailyMinutesDown": {
+      "2022-04-18": 0,
       "2022-03-29": 29,
       "2022-03-22": 25,
       "2022-02-16": 174,
@@ -94,9 +98,9 @@
     "url": "https://blog.amahi.org",
     "icon": "https://favicons.githubusercontent.com/blog.amahi.org",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -106,6 +110,7 @@
     "timeMonth": 972,
     "timeYear": 990,
     "dailyMinutesDown": {
+      "2022-04-18": 0,
       "2022-01-28": 140
     }
   },
@@ -114,18 +119,19 @@
     "url": "https://pfe.amahi.org/debug",
     "icon": "https://favicons.githubusercontent.com/pfe.amahi.org",
     "slug": "anywhere-relay",
-    "status": "up",
-    "uptime": "82.13%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "82.17%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.13%",
+    "uptimeYear": "82.17%",
     "time": 207,
     "timeDay": 432,
     "timeWeek": 234,
     "timeMonth": 224,
     "timeYear": 207,
     "dailyMinutesDown": {
+      "2022-04-18": 0,
       "2022-02-19": 1155,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
@@ -178,9 +184,9 @@
     "url": "http://f25.amahi.org",
     "icon": "https://favicons.githubusercontent.com/f25.amahi.org",
     "slug": "f25-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -189,16 +195,18 @@
     "timeWeek": 136,
     "timeMonth": 137,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-18": 0
+    }
   },
   {
     "name": "F27 Repo",
     "url": "http://f27.amahi.org",
     "icon": "https://favicons.githubusercontent.com/f27.amahi.org",
     "slug": "f27-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -207,16 +215,18 @@
     "timeWeek": 127,
     "timeMonth": 100,
     "timeYear": 103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-18": 0
+    }
   },
   {
     "name": "F35 Repo",
     "url": "http://f35.amahi.org",
     "icon": "https://favicons.githubusercontent.com/f35.amahi.org",
     "slug": "f35-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -225,6 +235,8 @@
     "timeWeek": 114,
     "timeMonth": 122,
     "timeYear": 105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-18": 0
+    }
   }
 ]
