@@ -1,7 +1,7 @@
 url: https://wiki.amahi.org
-status: up
-code: 200
-responseTime: 500
-lastUpdated: 2022-04-19T23:10:30.625Z
+status: down
+code: 500
+responseTime: 465
+lastUpdated: 2022-04-20T18:10:59.375Z
 startTime: Thu Dec 16 2021 01:56:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
